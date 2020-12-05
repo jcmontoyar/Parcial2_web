@@ -1,0 +1,8 @@
+{
+	"name": "Nombre",
+	"ThumbnailImage": "Imagen",
+	"description": "Descripcion",
+	"weight": "Ancho",
+	"height": "Alto",
+	"type": "Tipo"
+} 
